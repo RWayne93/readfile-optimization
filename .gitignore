@@ -3,3 +3,4 @@ submit.py
 redials_report
 submission_logs
 .Ds_Store
+__pycache__
